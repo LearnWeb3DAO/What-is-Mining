@@ -13,6 +13,7 @@ In decentralized systems like Ethereum, we need to ensure that everyone in the w
 
 For example, if Alice sent Bob 1 ETH, which he further sent to Charlie, the order of the transactions NEEDS to be as follows
 
+
 Alice --> Bob 1 ETH<br>
 Bob --> Charlie 1 ETH
 
