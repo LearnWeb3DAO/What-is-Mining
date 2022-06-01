@@ -29,7 +29,7 @@ Producing this certificate is a computationally hard and complex challenge. This
 
 But, given a certificate of legitimacy, it is extremely easy for a third party to verify if it is valid or not. 
 
-For the miners hard work in producing these certificates and executing transactions, they are rewarded in the form of new coins. In Ethereum, when a miner successfully mines a block, they receive 2 ETH for their hard work. 
+For the miners hard work in producing these certificates and executing transactions, they are rewarded in the form of new coins. In Ethereum, when a miner successfully mines a block, they receive 2 ETH for their hard work. Ethereum started with a block reward of 5 ETH, but this was lowered to 3 ETH with the Byzantium upgrade in 2017, and then again down to 2 ETH with the Constantinople upgrade in 2019.
 
 Since decentralized systems lack a central authoirity, the mining process is extremely crucial to the safety and validity of the network. Therefore, the mining reward acts as incentive to participate in the transaction validation process.
 
