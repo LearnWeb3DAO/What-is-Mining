@@ -13,7 +13,8 @@ In decentralized systems like Ethereum, we need to ensure that everyone in the w
 
 For example, if Alice sent Bob 1 ETH, which he further sent to Charlie, the order of the transactions NEEDS to be as follows
 
-Alice --> Bob 1 ETH<br>
+Alice --> Bob 1 ETH
+
 Bob --> Charlie 1 ETH
 
 Any other transaction order will not work, and it is important everyone agrees to this. 
@@ -32,6 +33,8 @@ But, given a certificate of legitimacy, it is extremely easy for a third party t
 For the miners hard work in producing these certificates and executing transactions, they are rewarded in the form of new coins. In Ethereum, when a miner successfully mines a block, they receive 2 ETH for their hard work. Ethereum started with a block reward of 5 ETH, but this was lowered to 3 ETH with the Byzantium upgrade in 2017, and then again down to 2 ETH with the Constantinople upgrade in 2019.
 
 Since decentralized systems lack a central authoirity, the mining process is extremely crucial to the safety and validity of the network. Therefore, the mining reward acts as incentive to participate in the transaction validation process.
+
+<Quiz questionId="91b88ca4-ce1e-4cd8-8736-857e62867eff" />
 
 ## Who can become a miner?
 Technically speaking, anyone can become a miner on Ethereum by running the Ethereum node software. However, not everyone can mine Ethereum *profitably*. 
